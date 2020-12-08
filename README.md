@@ -1,7 +1,5 @@
-TypeScript Parcel Typescript Demo
+TypeScript HTML Demo
 =================================
-
-使用parcel来简化demo的创建
 
 ```
 npm i
